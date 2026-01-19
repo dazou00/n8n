@@ -1,0 +1,13 @@
+# n8n sensitive
+*.db
+*.sqlite
+*.key
+*.pem
+
+# Ollama models
+ollama_data/
+*.gguf
+
+# OS
+.DS_Store
+Thumbs.db
